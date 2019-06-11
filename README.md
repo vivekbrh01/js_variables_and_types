@@ -1,6 +1,10 @@
-# Higher Order Function & Closure
+# Variables & TYpes
 
-The aim of the exercise is to understand the uses of Scope, Lexical Scope, Hoisting, Higher Order Function and Closure.
+The aim of the exercise is to get started with JavaScript understanding
+* [ ] Varibale defination with (let, var, const).
+* [ ] Data Types
+* [ ] typeof
+* [ ] Type Conversions
 
 ## Getting Started
 
@@ -24,3 +28,11 @@ The aim of the exercise is to understand the uses of Scope, Lexical Scope, Hoist
 ## Goals 🎯
 * [ ] Every folder has a `.md` file and a `.js` file
 * [ ] Go through the instruction form `.md` file and complete the function in the `.js` file.
+
+## Concepts & Resources ℹ️
+
+1. [Variables](http://javascript.info/variables)
+2. [Data Types](http://javascript.info/types)
+3. [Type Conversions](http://javascript.info/type-conversions)
+4. [Operators](http://javascript.info/operators)
+5. [Interaction: alert, prompt, confirm](http://javascript.info/alert-prompt-confirm)
