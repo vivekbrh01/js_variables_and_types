@@ -1,4 +1,4 @@
-# Variables & TYpes
+# Variables & Types
 
 The aim of the exercise is to get started with JavaScript understanding
 * [ ] Varibale defination with (let, var, const).
