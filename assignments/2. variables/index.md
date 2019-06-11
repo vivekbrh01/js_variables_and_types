@@ -1,3 +1,22 @@
+1. In code below "Mark" is a string.  What is name?
+```js
+var name = "Mark";
+```
+
+2. Find the error if any
+```js
+  var product cost = 3.45;
+```
+
+3. Write `Right or Wrong` next to the code below.
+
+```js
+  "Hello World"
+  'Hello World"
+  "Hello World'
+  'Hello World'
+```
+
 ## Write `VALID` and `INVALID` infront of the variable name defined below
 ```js
 var man;
