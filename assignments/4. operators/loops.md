@@ -39,3 +39,13 @@ var amount = 0;
 
 // Your code goes here
 ```
+
+6. 🎖Use a while loop to add up the numbers 1 to 20.
+```js
+// Your code goes here
+```
+
+7. 🎖Use a while loop to print out the even number from 1 to 20. (You'll need Modulus for this. And an IF Statement.)
+```js
+// Your code goes here
+```
