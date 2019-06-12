@@ -1,3 +1,5 @@
+## Go through the [comparision](http://javascript.info/comparison) chapter and complete the task below.
+
 Write the output (true / false) next to the comparision done below.
 ```js
 "hello world" === "hello world"; // Output
