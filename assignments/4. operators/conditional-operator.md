@@ -1,3 +1,4 @@
+## If Statement
 1.  🎖Make a simple calculator with these functions. Using prompt, type conversion, if else statement. Use prompt to take the input from user i.e two numbers and an operation (Add, Sub, Mul, Div).
 
   ⛑ Rule
@@ -26,8 +27,9 @@ var status = 'single';
 // Your code goes here
 ```
 
+## Switch Statement
 
-5. 🎖Using switch statement do the following
+1. 🎖Using switch statement do the following
 
 Take a number value from user and alert the message if it matches the conditions.
 * [ ] ONE, if `number` is equal to 1.
@@ -44,7 +46,7 @@ Take a number value from user and alert the message if it matches the conditions
 // Your code goes here
 ```
 
-6. 🎖Using switch statement do the following
+2. 🎖Using switch statement do the following
 
 Take the value of `marks` (0-100) from user using `prompt` and `alert` the message (Your Grade is AA) as giver below.
 * [ ] `AA` if `marks` is greater than 90.
