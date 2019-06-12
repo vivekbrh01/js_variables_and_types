@@ -52,4 +52,26 @@ NaN == undefined;
 
 NaN == NaN;
 
+2 > 1
+
+2 != 1
+
+'Z' > 'A'
+
+"Hello World" > "Super Mario"
+
+"Hello World" != "Super Mario"
+
+NaN !== NaN
+
+NaN != NaN
+
+NaN != undefined
+
+undefined != null
+
+undefined != "Hello"
+
+undefined != "undefined"
+
 ```
