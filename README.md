@@ -26,8 +26,7 @@ The aim of the exercise is to get started with JavaScript understanding
 * [ ] Once the mentor merges the PR to `master` branch, you are done with this exercise. Yay!
 
 ## Goals 🎯
-* [ ] Every folder has a `.md` file and a `.js` file
-* [ ] Go through the instruction form `.md` file and complete the function in the `.js` file.
+* [ ] Every folder has a `.md` file go through them and solve according to the instructions given in specific exercise.
 
 ## Concepts & Resources ℹ️
 

@@ -1,1 +1,0 @@
-Go through every files above and solve according to the instructions given in specific exercise.
