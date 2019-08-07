@@ -38,9 +38,10 @@ For example:
 
 ```js
 var num = 45;
+num = var a = 21;
 ```
 
-45 is a value in the above statement. Value is an expression.
+45 is a value in the above statement. Value is an expression. Is the line 41 valid? It's not because you can't put statement in place of expression. You can only put a value after the `=` sign when you are defining the variable.
 
 
 To understand the difference between them you can watch this video.
