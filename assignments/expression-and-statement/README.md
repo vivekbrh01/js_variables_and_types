@@ -1,4 +1,4 @@
-# Code
+# Expression vs Statement
 
 A program, often referred to as source code, is a set of instructions to tell the computer what tasks to perform. The rules for valid format and combinations of instructions is called a computer language, sometimes referred to as its `syntax`, much the same as English tells you how to spell words and how to create valid sentences using words and punctuation.
 
@@ -33,5 +33,15 @@ This above statement has four expressions in it:
   *. a = b * 2 is an assignment expression, which means to assign the result of the b * 2 expression to the variable a (more on assignments later)
 
 
-To understand the difference between them you can watch this vide.
+
+For example:
+
+```js
+var num = 45;
+```
+
+45 is a value in the above statement. Value is an expression.
+
+
+To understand the difference between them you can watch this video.
 [Expressions vs. Statements](https://www.youtube.com/watch?v=WVyCrI1cHi8)
