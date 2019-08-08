@@ -54,7 +54,7 @@ let temperature = 4;
 // Your code goes here
 ```
 
-4. 🎖 Output of this
+4. 🎖 Output of this and the reason behind the output.
 ```js
 alert( alert(1) || 2 || alert(3) );
 ```
