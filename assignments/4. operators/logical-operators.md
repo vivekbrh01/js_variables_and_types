@@ -5,32 +5,54 @@
 * [ ] Logical AND operation
 
 ```js
-true  && true; //output
+true  && true;
+// true
 true  && false;
+// false
 false && true;
+// false
 false && false;
+// false
 "foo" && "bar";
+// bar
 "bar" && "foo";
+// foo
 "foo" && "";
+// ""
 ""    && "foo";
+// ""
 " "   && "John" && "" && false
+// ""
 false && "Hey" && undefined
+// false
 "undefined" && false && 42
+// false
 ```
 
 * [ ] Logical OR operation
 ```js
 true  || true;
+// true
 true  || false;
+// true
 false || true;
+// true
 false || false;
+// false
 "foo" || "bar";
+// "foo"
 "bar" || "foo";
+// "bar"
 "foo" || "";
+// "foo"
 ""    || "foo";
+// "foo"
 " "   || "John" || "" || false
+// "John"
 false || "Hey" || undefined
+// "Hey"
 "undefined" || false || 42
+// "undefined"
 ```
 
 2. 🥈You have two variables i.e `isGuestOneVeg` and  `isGuestTwoVeg` according to the value using logical && and || opeartor do the following.
@@ -43,7 +65,17 @@ let isGuestOneVeg = false;
 let isGuestTwoVeg = false;
 // Your code goes here
 ```
-
+<!-- let isGuestOneVeg = prompt("Is first guest vegetarian? Enter 'Y' for yes and 'N' for no");
+let isGuestTwoVeg = prompt("Is second guest vegetarian? Enter 'Y' for yes and 'N' for no");
+if (isGuestOneVeg == "Y" && isGuestTwoVeg == "Y") {
+    alert("Only offer up vegan dishes.");
+}
+if (isGuestOneVeg == "Y" && isGuestTwoVeg == "N" || isGuestOneVeg == "N" && isGuestTwoVeg == "Y") {
+    alert("Make sure to offer up some vegan options.");
+}
+else { 
+    alert("Offer up anything on the menu.")
+} -->
 
 3. 🎖Using the variable `temperature` and logical operators do the following
 * [ ] If temperature is less then 32 alert "It is freezing outside"
@@ -58,3 +90,13 @@ let temperature = 4;
 ```js
 alert( alert(1) || 2 || alert(3) );
 ```
+<!-- let temperature = Number (prompt("Enter temperature"));
+if (temperature < 32) {
+    alert("It is freezing outside");
+}
+if (temperature > 110) {
+    alert("It is hot outside");
+}
+else {
+    alert("Go for it. It is pretty nice out");
+} -->
